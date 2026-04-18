@@ -1,2 +1,8 @@
 # ngary-gestion-
-Une appe web qui vous accompagne a gestion et a suivre vos vehicules et augmenter les perforemences ou que vous soyez avec vos employes et colabarateurs 
+Optimisez la gestion de votre flotte en toute simplicité 🚗
+Une application web intelligente qui vous permet de :
+
+Suivre vos véhicules en temps réel
+Gérer vos conducteurs et collaborateurs
+Améliorer vos performances
+Prendre des décisions efficaces, où que vous soyez
